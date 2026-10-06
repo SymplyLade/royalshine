@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-darkBg: #121212;
+  --color-cardBg: #1e1e1e;
+  --color-gold-400: #d4af37;
+  --color-gold-500: #c5a059;
+  --color-gold-600: #aa823d;
+}
+
+body {
+  background-color: #121212;
+  color: #f3f4f6;
+  font-family: system-ui, -apple-system, sans-serif;
+}
