@@ -2,9 +2,25 @@ export const menuData = [
   // --- FOOD & PEPPER SOUP ---
   { 
     id: 101, 
-    name: "Catfish Pepper Soup", 
+    name: "Complete Catfish", 
     category: "Food & Pepper Soup", 
-    price: 3500, 
+    price: 12000, 
+    type: "food",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600&q=80" 
+  },
+  { 
+    id: 104, 
+    name: "Catfish Head", 
+    category: "Food & Pepper Soup", 
+    price: 4000, 
+    type: "food",
+    image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600&q=80" 
+  },
+  { 
+    id: 105, 
+    name: "Catfish Parts", 
+    category: "Food & Pepper Soup", 
+    price: 3000, 
     type: "food",
     image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600&q=80" 
   },
